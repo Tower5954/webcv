@@ -1,0 +1,23 @@
+body{
+          background-color: #323232;
+        }
+        hr{
+          border-color: #a7ff83;
+          border-style: dotted none none;
+          border-width: 10px;
+          width: 5%
+        }
+        img{
+           height: 150px;
+           }
+        h1{
+           color: #17b978;
+           font-family: 'Bebas Neue', cursive;
+           font-size: 80px;
+           text-align: center;
+           }
+        h3{
+           color: #086972;
+           font-family: 'Bebas Neue', cursive;
+           font-size: 30px;
+        }
